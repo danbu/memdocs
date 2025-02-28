@@ -262,6 +262,7 @@ Device information in the hardware hashes CSV file should include:
 | **Hardware hash** | ✅ | ❌ |
 | **Group tag** | ❌ | ✅ |
 | **Assigned user** | ❌ | ✅ |
+| **Device name** | ❌ | ✅ |
 
 The required items of serial number and hardware can be collected into an individual device CSV file using the following methods:
 
